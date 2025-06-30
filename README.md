@@ -1,1 +1,0 @@
-# stock_structure_streaming_analysis
